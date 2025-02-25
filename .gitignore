@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.atom/
+__pycache__/
+migrations/
+node_modules/
+env/
+venv/
+dist/
+*.env
+*.pyc
+*.sqlite3
